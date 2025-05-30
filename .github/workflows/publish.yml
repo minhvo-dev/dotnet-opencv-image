@@ -1,4 +1,5 @@
 name: Deploy image to GHCR
+permissions: write-all
 
 on:
   push:
